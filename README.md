@@ -10,6 +10,6 @@ These are my solution only, feel free to leave a comment/suggestion.
 ### [02 - Filtering & Sorting](https://github.com/AkiraG/PandasExercises/tree/main/02%20Filtering%20%26%20Sorting)
 ### [03 - Grouping](https://github.com/AkiraG/PandasExercises/tree/main/03%20Grouping)
 ### [04 - Apply](https://github.com/AkiraG/PandasExercises/tree/main/04%20Apply)
-### 05 - Merge
+### [05 - Merge](https://github.com/AkiraG/PandasExercises/tree/main/05%20Merge)
 
 #WIP
